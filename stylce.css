@@ -261,8 +261,8 @@ ul{
 }
 
 .member-image img {
-    width: 360px; /* Ancho de las imágenes */
-    height: 360px; /* Altura de las imágenes */
+    width: 200px; /* Ancho de las imágenes */
+    height: 200px; /* Altura de las imágenes */
     border-radius: 50%; /* Bordes redondos para las imágenes */
     margin: 0 auto 1rem; /* Espacio entre la imagen y los detalles */
 }
