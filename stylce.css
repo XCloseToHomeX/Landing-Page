@@ -220,7 +220,7 @@ ul{
 .about-image {
     width: 250px; /* Ancho de la imagen cuadrada */
     height: 250px; /* Altura de la imagen cuadrada */
-    background-image: url('images/housekeeper_logo.png'); /* Ruta de la imagen */
+    background-image: url('images/homeguardians_logo2.png'); /* Ruta de la imagen */
     background-size: cover;
     background-position: center;
     border-radius: 50%; /* Bordes redondos para que sea cuadrada */
